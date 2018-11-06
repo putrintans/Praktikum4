@@ -39,8 +39,8 @@ int main()
 ## Latihan2.cpp : Susun algoritma untuk menginput sejumlah N barang, dengan rindian dua buah bilangan bulat yang masing - masing merupakan jumlah dan harga satuan suatu barang yang dibeli.
 
 **Alur algoritma**
-1. Mendeklarasikan variabel 'int jumlah_beli=0,total_beli=0,x,y,a;' sebagai variable input.
-2. Membaca input dari keyboard 'cin >> a >> jumlah_beli >> harga'
+1. Mendeklarasikan variabel `int jumlah_beli=0,total_beli=0,x,y,a;` sebagai variable input.
+2. Membaca input dari keyboard `cin >> a >> jumlah_beli >> harga`
 3. Membandingkan nilai variable  harga=0,harga_barang=0,total=0,bayar=0,diskon;
 
 **Flowchart Program**
