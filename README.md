@@ -1,7 +1,4 @@
 # Praktikum4
-# Praktikum4
-# Praktikum4
-
 
 ##latihan1.cpp : Susun algoritma untuk menginput bilangan sebanyak - banyaknya sampai kondisi dimasukkan angka 0 (nol).
 
