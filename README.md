@@ -1,18 +1,20 @@
 # Praktikum4
 
-##latihan1.cpp : Susun algoritma untuk menginput bilangan sebanyak - banyaknya sampai kondisi dimasukkan angka 0 (nol).
+## Latihan1.cpp : Susun algoritma untuk menginput bilangan sebanyak - banyaknya sampai kondisi dimasukkan angka 0 (nol).
 
 **Alur algoritma**
-1. Mendeklarasikan variabel 'int max, a;' sebagai variable input.
-2. Membaca input dari keyboard 'cin >> a;'
+1. Mendeklarasikan variabel `int max, a;` sebagai variable input.
+2. Membaca input dari keyboard `cin >> a;`
 3. Membandingkan nilai variable (max<a)
-            			 max=a;
+            	         max=a;
 
 **Flowchart Program**
 ![Flowchart](https://raw.githubusercontent.com/putrintans/Praktikum4/master/Latihan1/Flowchart1.jpg)
 
 **code program lengkap**
-'''c++
+
+```c++
+
 #include <iostream>
 using namespace std;
 int main()
@@ -30,12 +32,11 @@ int main()
 }
 ```
 
-
 **Screenshoot**
 ![Screenshoot](https://raw.githubusercontent.com/putrintans/Praktikum4/master/Latihan1/Screenshot1.png)
 
 
-###latihan2.cpp : Susun algoritma untuk menginput sejumlah N barang, dengan rindian dua buah bilangan bulat yang masing - masing merupakan jumlah dan harga satuan suatu barang yang dibeli.
+## Latihan2.cpp : Susun algoritma untuk menginput sejumlah N barang, dengan rindian dua buah bilangan bulat yang masing - masing merupakan jumlah dan harga satuan suatu barang yang dibeli.
 
 **Alur algoritma**
 1. Mendeklarasikan variabel 'int jumlah_beli=0,total_beli=0,x,y,a;' sebagai variable input.
@@ -47,7 +48,9 @@ int main()
 
 
 **code program lengkap**
-'''c++
+
+```c++
+
 #include <iostream>
 using namespace std;
 int main ()
@@ -90,7 +93,6 @@ int main ()
     cout<< "Total Yang Harus Di bayar =Rp"<<bayar<<endl;
 }
 ```
-
 
 **Screenshoot**
 ![Screenshoot](https://raw.githubusercontent.com/putrintans/Praktikum4/master/Latihan2/Screenshot2.png)
